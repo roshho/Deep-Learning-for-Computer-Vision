@@ -1,0 +1,3 @@
+/home/rosh/Desktop/DL_for_CV/DL_for_CV/final_project/working/build/CMakeFiles/realsense_pcl_capture.dir
+/home/rosh/Desktop/DL_for_CV/DL_for_CV/final_project/working/build/CMakeFiles/edit_cache.dir
+/home/rosh/Desktop/DL_for_CV/DL_for_CV/final_project/working/build/CMakeFiles/rebuild_cache.dir
